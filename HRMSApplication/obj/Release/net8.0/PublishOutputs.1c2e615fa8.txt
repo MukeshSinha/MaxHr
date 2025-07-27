@@ -1,0 +1,11 @@
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\HRMSApplication.exe
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\clientapp\package-lock.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\clientapp\package.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\clientapp\public\manifest.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\HRMSApplication.dll
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\HRMSApplication.deps.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\HRMSApplication.runtimeconfig.json
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\HRMSApplication.pdb
+D:\HRMS\HRMSApplication\HRMSApplication\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll

@@ -1,0 +1,2185 @@
+{
+  "Version": 1,
+  "Hash": "/x4LPvpVXc28LRlG+ruHH0QJ2BCOMvRhamoGg/vYG7U=",
+  "Source": "HRMSApplication",
+  "BasePath": "_content/HRMSApplication",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HRMSApplication\\wwwroot",
+      "Source": "HRMSApplication",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\bundle\\HRMSApplication.styles.css",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "HRMSApplication#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "47vlmle5ze",
+      "Integrity": "0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\bundle\\HRMSApplication.styles.css"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HRMSApplication.bundle.scp.css",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "HRMSApplication#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "47vlmle5ze",
+      "Integrity": "0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HRMSApplication.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/animatedEmployee#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "26fkjk1sk3",
+      "Integrity": "NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\animatedEmployee.gif"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/Category#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "555r02t6wg",
+      "Integrity": "yeoyDepzFl0PkB8wN1AZeqNDErXZvhDzMtksa6wlo/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\Category.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/department#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mnzloquz3q",
+      "Integrity": "PvgCheHfIoGNQrS1Mvy4usUbNFcu8IgRMI9DRqqRDN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\department.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/Designation#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64txcyyix3",
+      "Integrity": "pgWDw8KMG6Ecrjc3OJ5+6ePBiaoSdebLxNUC5vBagbo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\Designation.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/Employee#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjudfyzwvq",
+      "Integrity": "I73t+3iUHnaD/yhNqxSn/zLXiR70AtEs8AYxXE3zRhc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\Employee.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/HRMS#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9na4t268xl",
+      "Integrity": "5fNgrpgS6R0Il3VV7riHbWUDwYZcioPocc6KMZ8e+Ts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\HRMS.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/HRMSBackground#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oilpqakatb",
+      "Integrity": "0ERkXjbrm6L4FapNCmifXkgbUinnaUN1hEzH1Su7LRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\HRMSBackground.jpg"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/information#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rtontjr6sp",
+      "Integrity": "kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\information.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/Master#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilov8aajvo",
+      "Integrity": "uqHdMvv5bVT0tWXvANPRIiYBnWHpVK8LdbazfFiZpRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\Master.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/OrgStrcture#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mdegfp5tc",
+      "Integrity": "bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\OrgStrcture.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "dist/icons/SchoolLogo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "giv4g6nt1f",
+      "Integrity": "eO/tOskMHjDntgNOTcBh8hxh07gDR6HGyP9D53+bb/E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\SchoolLogo.jpeg"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1f2oqlqaa3",
+      "Integrity": "PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rao82nr6g4",
+      "Integrity": "/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "logo192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xr54by9dn2",
+      "Integrity": "w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo192.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "logo512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2377xp85ga",
+      "Integrity": "nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo512.png"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4bysstsvp2",
+      "Integrity": "ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sl60c43r8o",
+      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "static/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dvrh2l5o8w",
+      "Integrity": "p1L3jr1QS3qZX+t0J2X7xBX8ks5rjH+DHUMBdKXjztw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "SourceId": "HRMSApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApplication",
+      "RelativePath": "static/js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "189hkkkpgm",
+      "Integrity": "8Sz7ghD7oYQRY/dgD7JgLRA2j9lIUmgsmHnLakpcENE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dist/icons/animatedEmployee.26fkjk1sk3.gif",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3654303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:52:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "26fkjk1sk3"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/animatedEmployee.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/animatedEmployee.gif",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3654303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:52:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Category.555r02t6wg.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yeoyDepzFl0PkB8wN1AZeqNDErXZvhDzMtksa6wlo/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "555r02t6wg"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/Category.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yeoyDepzFl0PkB8wN1AZeqNDErXZvhDzMtksa6wlo/Y="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Category.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yeoyDepzFl0PkB8wN1AZeqNDErXZvhDzMtksa6wlo/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yeoyDepzFl0PkB8wN1AZeqNDErXZvhDzMtksa6wlo/Y="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/department.mnzloquz3q.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvgCheHfIoGNQrS1Mvy4usUbNFcu8IgRMI9DRqqRDN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:31:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnzloquz3q"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/department.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvgCheHfIoGNQrS1Mvy4usUbNFcu8IgRMI9DRqqRDN8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/department.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvgCheHfIoGNQrS1Mvy4usUbNFcu8IgRMI9DRqqRDN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:31:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvgCheHfIoGNQrS1Mvy4usUbNFcu8IgRMI9DRqqRDN8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Designation.64txcyyix3.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pgWDw8KMG6Ecrjc3OJ5+6ePBiaoSdebLxNUC5vBagbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64txcyyix3"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/Designation.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pgWDw8KMG6Ecrjc3OJ5+6ePBiaoSdebLxNUC5vBagbo="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Designation.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pgWDw8KMG6Ecrjc3OJ5+6ePBiaoSdebLxNUC5vBagbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pgWDw8KMG6Ecrjc3OJ5+6ePBiaoSdebLxNUC5vBagbo="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Employee.hjudfyzwvq.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I73t+3iUHnaD/yhNqxSn/zLXiR70AtEs8AYxXE3zRhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:35:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjudfyzwvq"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/Employee.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I73t+3iUHnaD/yhNqxSn/zLXiR70AtEs8AYxXE3zRhc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Employee.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I73t+3iUHnaD/yhNqxSn/zLXiR70AtEs8AYxXE3zRhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:35:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I73t+3iUHnaD/yhNqxSn/zLXiR70AtEs8AYxXE3zRhc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/HRMS.9na4t268xl.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fNgrpgS6R0Il3VV7riHbWUDwYZcioPocc6KMZ8e+Ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:28:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9na4t268xl"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/HRMS.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fNgrpgS6R0Il3VV7riHbWUDwYZcioPocc6KMZ8e+Ts="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/HRMS.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fNgrpgS6R0Il3VV7riHbWUDwYZcioPocc6KMZ8e+Ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:28:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fNgrpgS6R0Il3VV7riHbWUDwYZcioPocc6KMZ8e+Ts="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/HRMSBackground.jpg",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ERkXjbrm6L4FapNCmifXkgbUinnaUN1hEzH1Su7LRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ERkXjbrm6L4FapNCmifXkgbUinnaUN1hEzH1Su7LRI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/HRMSBackground.oilpqakatb.jpg",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ERkXjbrm6L4FapNCmifXkgbUinnaUN1hEzH1Su7LRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 11:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oilpqakatb"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/HRMSBackground.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ERkXjbrm6L4FapNCmifXkgbUinnaUN1hEzH1Su7LRI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/information.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:35:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/information.rtontjr6sp.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:35:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtontjr6sp"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/information.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Master.ilov8aajvo.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uqHdMvv5bVT0tWXvANPRIiYBnWHpVK8LdbazfFiZpRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:29:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilov8aajvo"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/Master.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uqHdMvv5bVT0tWXvANPRIiYBnWHpVK8LdbazfFiZpRg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Master.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uqHdMvv5bVT0tWXvANPRIiYBnWHpVK8LdbazfFiZpRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:29:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uqHdMvv5bVT0tWXvANPRIiYBnWHpVK8LdbazfFiZpRg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/OrgStrcture.5mdegfp5tc.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:30:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mdegfp5tc"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/OrgStrcture.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/OrgStrcture.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 10:30:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/SchoolLogo.giv4g6nt1f.jpeg",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eO/tOskMHjDntgNOTcBh8hxh07gDR6HGyP9D53+bb/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 12:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "giv4g6nt1f"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/SchoolLogo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eO/tOskMHjDntgNOTcBh8hxh07gDR6HGyP9D53+bb/E="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/SchoolLogo.jpeg",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eO/tOskMHjDntgNOTcBh8hxh07gDR6HGyP9D53+bb/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 12:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eO/tOskMHjDntgNOTcBh8hxh07gDR6HGyP9D53+bb/E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "HRMSApplication.47vlmle5ze.bundle.scp.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HRMSApplication.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 09:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47vlmle5ze"
+        },
+        {
+          "Name": "label",
+          "Value": "HRMSApplication.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI="
+        }
+      ]
+    },
+    {
+      "Route": "HRMSApplication.47vlmle5ze.styles.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\bundle\\HRMSApplication.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 09:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47vlmle5ze"
+        },
+        {
+          "Name": "label",
+          "Value": "HRMSApplication.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI="
+        }
+      ]
+    },
+    {
+      "Route": "HRMSApplication.bundle.scp.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HRMSApplication.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 09:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI="
+        }
+      ]
+    },
+    {
+      "Route": "HRMSApplication.styles.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\bundle\\HRMSApplication.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 09:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AR4ng4mwXHo8jzq2CXoNXmB+Z6MznHLjkHvFZxcQDI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA="
+        }
+      ]
+    },
+    {
+      "Route": "index.rao82nr6g4.html",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rao82nr6g4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.xr54by9dn2.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xr54by9dn2"
+        },
+        {
+          "Name": "label",
+          "Value": "logo192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.2377xp85ga.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2377xp85ga"
+        },
+        {
+          "Name": "label",
+          "Value": "logo512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.png",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 08:10:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/style.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1L3jr1QS3qZX+t0J2X7xBX8ks5rjH+DHUMBdKXjztw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1L3jr1QS3qZX+t0J2X7xBX8ks5rjH+DHUMBdKXjztw="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/style.dvrh2l5o8w.css",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1L3jr1QS3qZX+t0J2X7xBX8ks5rjH+DHUMBdKXjztw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvrh2l5o8w"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1L3jr1QS3qZX+t0J2X7xBX8ks5rjH+DHUMBdKXjztw="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.189hkkkpgm.js",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Sz7ghD7oYQRY/dgD7JgLRA2j9lIUmgsmHnLakpcENE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "189hkkkpgm"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Sz7ghD7oYQRY/dgD7JgLRA2j9lIUmgsmHnLakpcENE="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.js",
+      "AssetFile": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Sz7ghD7oYQRY/dgD7JgLRA2j9lIUmgsmHnLakpcENE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Sz7ghD7oYQRY/dgD7JgLRA2j9lIUmgsmHnLakpcENE="
+        }
+      ]
+    }
+  ]
+}

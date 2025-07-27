@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HRMSApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HRMSApplication.47vlmle5ze.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\Category.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\Designation.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\Employee.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\HRMS.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "PackagePath": "staticwebassets\\dist\\icons\\HRMSBackground.jpg"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\Master.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\OrgStrcture.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "PackagePath": "staticwebassets\\dist\\icons\\SchoolLogo.jpeg"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "PackagePath": "staticwebassets\\dist\\icons\\animatedEmployee.gif"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\department.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\information.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "PackagePath": "staticwebassets\\static\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HRMS\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HRMSApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HRMSApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.HRMSApplication.props",
+      "PackagePath": "build\\HRMSApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HRMSApplication.props",
+      "PackagePath": "buildMultiTargeting\\HRMSApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.HRMSApplication.props",
+      "PackagePath": "buildTransitive\\HRMSApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
