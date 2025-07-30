@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Videos\\OldHRMS\\HRMSApplication\\HRMSApplication\\HRMSApp.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\HRMSApp.csproj",
       "projectName": "HRMSApp",
-      "projectPath": "C:\\Users\\hp\\Videos\\OldHRMS\\HRMSApplication\\HRMSApplication\\HRMSApp.csproj",
+      "projectPath": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\HRMSApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Videos\\OldHRMS\\HRMSApplication\\HRMSApplication\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
