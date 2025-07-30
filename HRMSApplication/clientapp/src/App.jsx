@@ -21,6 +21,10 @@ import HolidayMaster from './components/HolidayMaster';
 import EmployeeShiftConfig from './components/EmployeeShiftConfig';
 import EmployeeAllowance from './components/EmployeeAllowance';
 import EmployeeDeduction from './components/EmployeeDeduction';
+import BranchMaster from './components/BranchMaster';
+import LocationMaster from './components/LocationMaster';
+import ImportEmployee from './components/ImportEmployee';
+import ImportSalaryMaster from './components/ImportSalaryMaster';
 
 const FormProvider = ({ children }) => {
     const [formData, setFormData] = useState({
@@ -108,6 +112,7 @@ function Layout({ selectedModule, setSelectedModule }) {
                 <Route path="/HRMS/CompanyLeaves/CompanyLeaves" element={<CompanyLeaves />} />
                 <Route path="/HRMS/ShiftMaster/ShiftMaster" element={<ShiftMaster />} />
                 <Route path="/HRMS/EmpMonthlyAllowance/EmpMonthlyAllowance" element={<EmployeeAllowance />} />
+                {/*<Route path="/HRMS/EmpMonthlyDeduction/EmpMonthlyDeduction" element={<EmployeeDeduction />} />*/}
                 <Route path="/HRMS/EmpMonthlyDeduction/EmpMonthlyDeduction" element={<EmployeeDeduction />} />
             </Routes>
         </div>

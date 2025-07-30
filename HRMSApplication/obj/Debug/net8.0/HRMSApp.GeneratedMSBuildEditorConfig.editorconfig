@@ -20,12 +20,28 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/BranchMaster/BranchMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xCcmFuY2hNYXN0ZXJcQnJhbmNoTWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/EmployeeRegistration/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xFbXBsb3llZVJlZ2lzdHJhdGlvblxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/Employees/EmployeeMaster.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xFbXBsb3llZXNcRW1wbG95ZWVNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/ImportEmployee/ImportEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xJbXBvcnRFbXBsb3llZVxJbXBvcnRFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/ImportSalaryMaster/ImportSalaryMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xJbXBvcnRTYWxhcnlNYXN0ZXJcSW1wb3J0U2FsYXJ5TWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/LocationMaster/LocationMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xMb2NhdGlvbk1hc3RlclxMb2NhdGlvbk1hc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Views/Home/Index.cshtml]
