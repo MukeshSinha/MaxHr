@@ -50,13 +50,13 @@ namespace HRMSApplication.Areas.HRMS.Controllers
                         string emailId = table[0]["Email"]?.ToString();
                         string mobileNo = table[0]["Mob"]?.ToString();
 
-                        HttpContext.Session.SetString("univCode", univNm);
-                        HttpContext.Session.SetString("DbName", DbNm);
-                        HttpContext.Session.SetString("uName", userName);
-                        HttpContext.Session.SetString("loginId", loginId);
-                        HttpContext.Session.SetString("UserId", userId);
-                        HttpContext.Session.SetString("EmailId", emailId);
-                        HttpContext.Session.SetString("MobileNo", mobileNo);
+                        HttpContext.Session.SetString("univCode", univNm ??= "");
+                        HttpContext.Session.SetString("DbName", DbNm ??= "");
+                        HttpContext.Session.SetString("uName", userName ??= "");
+                        HttpContext.Session.SetString("loginId", loginId ??= "");
+                        HttpContext.Session.SetString("UserId", userId ??= "");
+                        HttpContext.Session.SetString("EmailId", emailId ??= "");
+                        HttpContext.Session.SetString("MobileNo", mobileNo ??= "");
                         HttpContext.Session.SetString("IpAddress", usrdetail.IpAddress);
                     }
                 }
@@ -156,7 +156,7 @@ namespace HRMSApplication.Areas.HRMS.Controllers
                     // Get database name from session
                     header.Add("Databasename", DbNm);
                     header.Add("UserID", loginId);
-                    header.Add("portaltype", "univ");
+                    header.Add("portaltype", "aa");
                    
                     string url = ApiService.userManage + "VerifyCredential";
                     string res = JsonConvert.SerializeObject(obj);
@@ -198,37 +198,37 @@ namespace HRMSApplication.Areas.HRMS.Controllers
 
                             }
 
-                            if (!string.IsNullOrEmpty(loginId))
-                            {
-                                string collegeUrl = ApiService.LMS + $"UniversityStructure/v1/getColleges?username={loginId}";
-                                var response = await apiService.SendRequestAsync(collegeUrl, HttpMethod.Get, header);
+                            //if (!string.IsNullOrEmpty(loginId))
+                            //{
+                            //    string collegeUrl = ApiService.LMS + $"UniversityStructure/v1/getColleges?username={loginId}";
+                            //    var response = await apiService.SendRequestAsync(collegeUrl, HttpMethod.Get, header);
 
-                                // Parse response
-                                JObject jsonResponse = JObject.Parse(response);
+                            //    // Parse response
+                            //    JObject jsonResponse = JObject.Parse(response);
 
-                                // Check if dataFetch exists and is not null
-                                var dataFetch = jsonResponse["dataFetch"];
-                                if (dataFetch == null || dataFetch.Type == JTokenType.Null || dataFetch["table"] == null)
-                                {
-                                    return Json(new { statusCode = 0 });
-                                }
+                            //    // Check if dataFetch exists and is not null
+                            //    var dataFetch = jsonResponse["dataFetch"];
+                            //    if (dataFetch == null || dataFetch.Type == JTokenType.Null || dataFetch["table"] == null)
+                            //    {
+                            //        return Json(new { statusCode = 0 });
+                            //    }
 
-                                // Extract table safely
-                                var table = dataFetch["table"] as JArray;
-                                if (table == null || !table.Any())
-                                {
-                                    return Json(new { statusCode = 0 });
-                                }
+                            //    // Extract table safely
+                            //    var table = dataFetch["table"] as JArray;
+                            //    if (table == null || !table.Any())
+                            //    {
+                            //        return Json(new { statusCode = 0 });
+                            //    }
 
-                                // Extract college name safely
-                                var college = table[0]?["college_NAME"]?.ToString();
-                                if (string.IsNullOrEmpty(college))
-                                {
-                                    return Json(new { statusCode = 0 });
-                                }
+                            //    // Extract college name safely
+                            //    var college = table[0]?["college_NAME"]?.ToString();
+                            //    if (string.IsNullOrEmpty(college))
+                            //    {
+                            //        return Json(new { statusCode = 0 });
+                            //    }
 
-                                // Continue processing as needed...
-                            }
+                            //    // Continue processing as needed...
+                            //}
 
                             foreach (var uinfo in userInfo.DataFetch.Table)
                             {
