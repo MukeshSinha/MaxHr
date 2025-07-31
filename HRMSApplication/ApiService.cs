@@ -3,8 +3,8 @@
     public class ApiService
     {
         private static readonly HttpClient client = new HttpClient();
-        public static string userManage = "https://www.universitymanagementsystem.in/UserManage/";
-        public static string Host = "https://www.universitymanagementsystem.in/uiapi/api/";
+        public static string userManage = "https://www.hrcpayroll.com/UserManage/";
+        public static string Host = "https://www.hrcpayroll.com/ui/api/";
         public static string InventoryHost = "https://www.universitymanagementsystem.in/inventory/api/";
         public static string HostelHost = "https://www.universitymanagementsystem.in/hostel/api/";
         public static string SearchStudent = "https://www.universitymanagementsystem.in/webapi/api/";

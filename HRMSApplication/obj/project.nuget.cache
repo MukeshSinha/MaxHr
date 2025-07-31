@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "ksqtT1q79h0=",
   "success": true,
   "projectFilePath": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\HRMSApp.csproj",
-=======
-  "dgSpecHash": "QdTEFoGLVDw=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\HRMSApp.csproj",
->>>>>>> 1532a7cd76ee422c6c730b48d0182c5c34a1c63b
   "expectedPackageFiles": [
     "C:\\Users\\mukes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
