@@ -21,7 +21,7 @@ namespace HRMSApp.Areas.HRMS.Controllers
             return View();
         }
 
-        // Add Allowance 1s s
+        // Add Allowance 1s ss
         [HttpPost]
         public async Task<ActionResult> SaveAllowance([FromBody] AllowanceData allowanceData)
         {
