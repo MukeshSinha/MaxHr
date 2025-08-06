@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "6F6J7a/P5IxAuxTG1GWJxurD7TIkXRo5PYDquVCtTW8=",
+=======
+  "Hash": "X2wZkfZyYsxHkMLVSAzR5U7W+ByE62tXTDd+NZLovVY=",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
   "Source": "HRMSApp",
   "BasePath": "_content/HRMSApp",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "HRMSApp\\wwwroot",
       "Source": "HRMSApp",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
       "SourceId": "HRMSApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "HRMSApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -31,17 +35,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "8k61d9exip",
-      "Integrity": "eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=",
+      "Fingerprint": "hhax7eaes0",
+      "Integrity": "VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css"
+      "OriginalItemSpec": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
       "SourceId": "HRMSApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "HRMSApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -52,17 +56,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "8k61d9exip",
-      "Integrity": "eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=",
+      "Fingerprint": "hhax7eaes0",
+      "Integrity": "VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css"
+      "OriginalItemSpec": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "assets/html2canvas.esm-BfxBtG_O#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +84,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "assets/index.es-BTBWxs2J#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -101,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index.es-BTBWxs2J.js"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "assets/purify.es-CQJ0hv7W#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\purify.es-CQJ0hv7W.js"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Allowances#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +147,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Allowances.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/animatedEmployee#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -164,6 +168,7 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\animatedEmployee.gif"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
@@ -207,9 +212,12 @@
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+=======
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Backgound#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -227,10 +235,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Backgound.gif"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Category#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +256,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Category.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Deductions#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +277,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Deductions.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/department#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +298,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\department.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Designation#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +319,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Designation.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Employee#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Employee.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/EmployeeAllowance#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +361,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\EmployeeAllowance.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/EmployeeLeave#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +382,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\EmployeeLeave.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/EmployeeSaalaryDeduction#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Holiday#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -416,10 +424,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Holiday.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/HRMS#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +445,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\HRMS.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/HRMSBackground#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +466,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\HRMSBackground.jpg"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/HumanResource#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -479,10 +487,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\HumanResource.gif"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/information#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -500,6 +508,7 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\information.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
@@ -522,9 +531,12 @@
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+=======
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Master#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +554,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Master.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/OrgStrcture#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,6 +575,7 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\OrgStrcture.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
@@ -585,9 +598,12 @@
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+=======
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Salary#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -605,10 +621,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Salary.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/SchoolLogo#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -626,10 +642,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\SchoolLogo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/Shift#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -647,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\Shift.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "dist/icons/timeOffice#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -668,6 +684,7 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\timeOffice.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
@@ -690,9 +707,12 @@
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\favicon.ico",
+=======
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -710,10 +730,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\index.html",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -731,10 +751,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo192.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "logo192#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -752,10 +772,10 @@
       "OriginalItemSpec": "wwwroot\\logo192.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo512.png",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "logo512#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -773,10 +793,10 @@
       "OriginalItemSpec": "wwwroot\\logo512.png"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\manifest.json",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "manifest#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -787,17 +807,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xnb7ssc67i",
-      "Integrity": "M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=",
+      "Fingerprint": "4bysstsvp2",
+      "Integrity": "ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\robots.txt",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "robots#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -808,17 +828,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rs9qwwwsq7",
-      "Integrity": "5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=",
+      "Fingerprint": "sl60c43r8o",
+      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "static/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -829,17 +849,22 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "rnf8dfkc8i",
       "Integrity": "ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=",
+=======
+      "Fingerprint": "qor4cwuc6m",
+      "Integrity": "KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE=",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Identity": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "ContentRoot": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\",
       "BasePath": "_content/HRMSApp",
       "RelativePath": "static/js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -850,8 +875,13 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "sunlmwghoc",
       "Integrity": "BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=",
+=======
+      "Fingerprint": "hbovtn0q2b",
+      "Integrity": "3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\main.js"
@@ -860,7 +890,7 @@
   "Endpoints": [
     {
       "Route": "assets/html2canvas.esm-BfxBtG_O.4mrqouj4ax.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -881,7 +911,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -905,7 +939,7 @@
     },
     {
       "Route": "assets/html2canvas.esm-BfxBtG_O.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -926,7 +960,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -942,7 +980,7 @@
     },
     {
       "Route": "assets/index.es-BTBWxs2J.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -963,7 +1001,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -979,7 +1021,7 @@
     },
     {
       "Route": "assets/index.es-BTBWxs2J.rw1d3002tn.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1000,7 +1042,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1024,7 +1070,7 @@
     },
     {
       "Route": "assets/purify.es-CQJ0hv7W.i7av19unel.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1045,7 +1091,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1069,7 +1119,7 @@
     },
     {
       "Route": "assets/purify.es-CQJ0hv7W.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1090,7 +1140,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1106,7 +1160,7 @@
     },
     {
       "Route": "dist/icons/Allowances.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1127,7 +1181,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1143,7 +1201,7 @@
     },
     {
       "Route": "dist/icons/Allowances.pvrxgbbk03.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1164,7 +1222,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1188,7 +1250,7 @@
     },
     {
       "Route": "dist/icons/animatedEmployee.26fkjk1sk3.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1209,7 +1271,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1233,7 +1299,7 @@
     },
     {
       "Route": "dist/icons/animatedEmployee.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1254,7 +1320,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1434,7 +1504,7 @@
     },
     {
       "Route": "dist/icons/Backgound.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1455,7 +1525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1471,7 +1541,7 @@
     },
     {
       "Route": "dist/icons/Backgound.mlr83mfkrq.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1492,7 +1562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1516,7 +1586,7 @@
     },
     {
       "Route": "dist/icons/Category.555r02t6wg.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1537,7 +1607,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1561,7 +1635,7 @@
     },
     {
       "Route": "dist/icons/Category.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1582,7 +1656,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1598,7 +1676,7 @@
     },
     {
       "Route": "dist/icons/Deductions.4sfyw95dh3.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1619,7 +1697,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1643,7 +1725,7 @@
     },
     {
       "Route": "dist/icons/Deductions.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1664,7 +1746,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1680,7 +1766,7 @@
     },
     {
       "Route": "dist/icons/department.mnzloquz3q.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1701,7 +1787,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1725,7 +1815,7 @@
     },
     {
       "Route": "dist/icons/department.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1746,7 +1836,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1762,7 +1856,7 @@
     },
     {
       "Route": "dist/icons/Designation.64txcyyix3.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1783,7 +1877,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1807,7 +1905,7 @@
     },
     {
       "Route": "dist/icons/Designation.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1828,7 +1926,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1844,7 +1946,7 @@
     },
     {
       "Route": "dist/icons/Employee.hjudfyzwvq.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1865,7 +1967,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1889,7 +1995,7 @@
     },
     {
       "Route": "dist/icons/Employee.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1910,7 +2016,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1926,7 +2036,7 @@
     },
     {
       "Route": "dist/icons/EmployeeAllowance.5bbvg1s0wz.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1947,7 +2057,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -1971,7 +2085,7 @@
     },
     {
       "Route": "dist/icons/EmployeeAllowance.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1992,7 +2106,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2008,7 +2126,7 @@
     },
     {
       "Route": "dist/icons/EmployeeLeave.luaol69lfw.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2029,7 +2147,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2053,7 +2175,7 @@
     },
     {
       "Route": "dist/icons/EmployeeLeave.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2074,7 +2196,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2090,7 +2216,7 @@
     },
     {
       "Route": "dist/icons/EmployeeSaalaryDeduction.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2111,7 +2237,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2127,7 +2257,7 @@
     },
     {
       "Route": "dist/icons/EmployeeSaalaryDeduction.qfy8lruu9i.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2148,7 +2278,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2172,7 +2306,7 @@
     },
     {
       "Route": "dist/icons/Holiday.d4k4xlqo2o.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2193,7 +2327,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2217,7 +2355,7 @@
     },
     {
       "Route": "dist/icons/Holiday.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2238,7 +2376,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2254,7 +2396,7 @@
     },
     {
       "Route": "dist/icons/HRMS.9na4t268xl.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2275,7 +2417,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2445,7 @@
     },
     {
       "Route": "dist/icons/HRMS.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2320,7 +2466,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2336,7 +2486,7 @@
     },
     {
       "Route": "dist/icons/HRMSBackground.jpg",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2357,7 +2507,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2373,7 +2527,7 @@
     },
     {
       "Route": "dist/icons/HRMSBackground.oilpqakatb.jpg",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2394,7 +2548,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2418,7 +2576,7 @@
     },
     {
       "Route": "dist/icons/HumanResource.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2439,7 +2597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2455,7 +2613,7 @@
     },
     {
       "Route": "dist/icons/HumanResource.mspf0ohagz.gif",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2476,7 +2634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2500,7 +2658,7 @@
     },
     {
       "Route": "dist/icons/information.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2521,7 +2679,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2537,7 +2699,7 @@
     },
     {
       "Route": "dist/icons/information.rtontjr6sp.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2558,7 +2720,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2664,7 +2830,7 @@
     },
     {
       "Route": "dist/icons/Master.ilov8aajvo.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2685,7 +2851,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2709,7 +2879,7 @@
     },
     {
       "Route": "dist/icons/Master.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2730,7 +2900,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2746,7 +2920,7 @@
     },
     {
       "Route": "dist/icons/OrgStrcture.5mdegfp5tc.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2767,7 +2941,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2791,7 +2969,7 @@
     },
     {
       "Route": "dist/icons/OrgStrcture.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2812,7 +2990,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2910,7 +3092,7 @@
     },
     {
       "Route": "dist/icons/Salary.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2931,7 +3113,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2947,7 +3133,7 @@
     },
     {
       "Route": "dist/icons/Salary.wcsut2gyb2.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2968,7 +3154,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -2992,7 +3182,7 @@
     },
     {
       "Route": "dist/icons/SchoolLogo.giv4g6nt1f.jpeg",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3013,7 +3203,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3037,7 +3231,7 @@
     },
     {
       "Route": "dist/icons/SchoolLogo.jpeg",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3058,7 +3252,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3074,7 +3272,7 @@
     },
     {
       "Route": "dist/icons/Shift.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3095,7 +3293,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3111,7 +3313,7 @@
     },
     {
       "Route": "dist/icons/Shift.qzsdssjos9.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3132,7 +3334,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3156,7 +3362,7 @@
     },
     {
       "Route": "dist/icons/timeOffice.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3177,7 +3383,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3193,7 +3403,7 @@
     },
     {
       "Route": "dist/icons/timeOffice.rh4lhlxysj.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3214,7 +3424,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3320,7 +3534,7 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3341,7 +3555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3365,7 +3579,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3386,7 +3600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3401,8 +3615,8 @@
       ]
     },
     {
-      "Route": "HRMSApp.8k61d9exip.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
+      "Route": "HRMSApp.bundle.scp.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3419,11 +3633,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=\""
+          "Value": "\"VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Thu, 31 Jul 2025 15:06:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck="
+        }
+      ]
+    },
+    {
+      "Route": "HRMSApp.hhax7eaes0.bundle.scp.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 15:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3433,7 +3684,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8k61d9exip"
+          "Value": "hhax7eaes0"
         },
         {
           "Name": "label",
@@ -3441,13 +3692,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0="
+          "Value": "sha256-VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck="
         }
       ]
     },
     {
-      "Route": "HRMSApp.8k61d9exip.styles.css",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
+      "Route": "HRMSApp.hhax7eaes0.styles.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3464,11 +3715,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=\""
+          "Value": "\"VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Thu, 31 Jul 2025 15:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3478,7 +3729,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8k61d9exip"
+          "Value": "hhax7eaes0"
         },
         {
           "Name": "label",
@@ -3486,50 +3737,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0="
-        }
-      ]
-    },
-    {
-      "Route": "HRMSApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0="
+          "Value": "sha256-VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck="
         }
       ]
     },
     {
       "Route": "HRMSApp.styles.css",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HRMSApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3546,11 +3760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0=\""
+          "Value": "\"VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Thu, 31 Jul 2025 15:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3560,13 +3774,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eOissuWgvqcwCogYDDlVxHXoLNWP8A5/aOxoqFgeDd0="
+          "Value": "sha256-VTKKZd3yuMZ/7EILXKMv+Fld9H95EKbQLSXzrhB66ck="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\index.html",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3587,7 +3801,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3603,7 +3821,7 @@
     },
     {
       "Route": "index.rao82nr6g4.html",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\index.html",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3624,7 +3842,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -3648,7 +3870,7 @@
     },
     {
       "Route": "logo192.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo192.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3669,7 +3891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3685,7 +3907,7 @@
     },
     {
       "Route": "logo192.xr54by9dn2.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo192.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3706,7 +3928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3730,7 +3952,7 @@
     },
     {
       "Route": "logo512.2377xp85ga.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo512.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3751,7 +3973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3775,7 +3997,7 @@
     },
     {
       "Route": "logo512.png",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo512.png",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3796,7 +4018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3811,8 +4033,8 @@
       ]
     },
     {
-      "Route": "manifest.json",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\manifest.json",
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3821,7 +4043,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "517"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -3829,48 +4051,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
-        }
-      ]
-    },
-    {
-      "Route": "manifest.xnb7ssc67i.json",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\manifest.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "517"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3880,7 +4065,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xnb7ssc67i"
+          "Value": "4bysstsvp2"
         },
         {
           "Name": "label",
@@ -3888,13 +4073,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
         }
       ]
     },
     {
-      "Route": "robots.rs9qwwwsq7.txt",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\robots.txt",
+      "Route": "manifest.json",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3903,7 +4088,44 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70"
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
         },
         {
           "Name": "Content-Type",
@@ -3911,11 +4133,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3925,7 +4147,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rs9qwwwsq7"
+          "Value": "sl60c43r8o"
         },
         {
           "Name": "label",
@@ -3933,13 +4155,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
         }
       ]
     },
     {
       "Route": "robots.txt",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\robots.txt",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3948,7 +4170,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70"
+          "Value": "67"
         },
         {
           "Name": "Content-Type",
@@ -3956,11 +4178,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3970,13 +4192,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
         }
       ]
     },
     {
       "Route": "static/css/style.css",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3985,7 +4207,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "43793"
+=======
+          "Value": "42636"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Content-Type",
@@ -3993,11 +4219,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "\"KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:54:56 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -4007,13 +4241,22 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
+=======
+          "Value": "sha256-KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE="
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         }
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "static/css/style.rnf8dfkc8i.css",
       "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+=======
+      "Route": "static/css/style.qor4cwuc6m.css",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4022,7 +4265,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "43793"
+=======
+          "Value": "42636"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Content-Type",
@@ -4030,11 +4277,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "\"KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:54:56 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -4044,7 +4299,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "rnf8dfkc8i"
+=======
+          "Value": "qor4cwuc6m"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "label",
@@ -4052,13 +4311,16 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
+=======
+          "Value": "sha256-KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE="
         }
       ]
     },
     {
-      "Route": "static/js/main.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Route": "static/js/main.hbovtn0q2b.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4067,7 +4329,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1511739"
+          "Value": "1455046"
         },
         {
           "Name": "Content-Type",
@@ -4075,11 +4337,69 @@
         },
         {
           "Name": "ETag",
+          "Value": "\"3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbovtn0q2b"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg="
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.js",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "1511739"
+=======
+          "Value": "1455046"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+=======
+          "Value": "\"3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         },
         {
           "Name": "Cache-Control",
@@ -4089,6 +4409,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw="
         }
       ]
@@ -4135,6 +4456,9 @@
         {
           "Name": "integrity",
           "Value": "sha256-BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw="
+=======
+          "Value": "sha256-3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg="
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
         }
       ]
     }

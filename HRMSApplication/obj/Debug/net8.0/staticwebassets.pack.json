@@ -1,102 +1,111 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\HRMSApp.8k61d9exip.bundle.scp.css"
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRMSApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HRMSApp.hhax7eaes0.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\html2canvas.esm-BfxBtG_O.js",
       "PackagePath": "staticwebassets\\assets\\html2canvas.esm-BfxBtG_O.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\index.es-BTBWxs2J.js",
       "PackagePath": "staticwebassets\\assets\\index.es-BTBWxs2J.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\assets\\purify.es-CQJ0hv7W.js",
       "PackagePath": "staticwebassets\\assets\\purify.es-CQJ0hv7W.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Allowances.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Allowances.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Attendance.png"
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+=======
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "PackagePath": "staticwebassets\\dist\\icons\\Backgound.gif"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Category.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Category.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Deductions.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Deductions.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Designation.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Designation.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Employee.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Employee.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeAllowance.png",
       "PackagePath": "staticwebassets\\dist\\icons\\EmployeeAllowance.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeLeave.png",
       "PackagePath": "staticwebassets\\dist\\icons\\EmployeeLeave.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\EmployeeSaalaryDeduction.png",
       "PackagePath": "staticwebassets\\dist\\icons\\EmployeeSaalaryDeduction.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMS.png",
       "PackagePath": "staticwebassets\\dist\\icons\\HRMS.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HRMSBackground.jpg",
       "PackagePath": "staticwebassets\\dist\\icons\\HRMSBackground.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Holiday.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Holiday.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\HumanResource.gif",
       "PackagePath": "staticwebassets\\dist\\icons\\HumanResource.gif"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Master.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\OrgStrcture.png",
       "PackagePath": "staticwebassets\\dist\\icons\\OrgStrcture.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
       "PackagePath": "staticwebassets\\dist\\icons\\PFEsi.png"
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+=======
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "PackagePath": "staticwebassets\\dist\\icons\\Salary.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\SchoolLogo.jpeg",
       "PackagePath": "staticwebassets\\dist\\icons\\SchoolLogo.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\Shift.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Shift.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
       "PackagePath": "staticwebassets\\dist\\icons\\TimeOfficeSetup.png"
     },
@@ -110,50 +119,61 @@
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+=======
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
+      "PackagePath": "staticwebassets\\dist\\icons\\animatedEmployee.gif"
+    },
+    {
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "PackagePath": "staticwebassets\\dist\\icons\\department.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
       "PackagePath": "staticwebassets\\dist\\icons\\information.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
       "PackagePath": "staticwebassets\\dist\\icons\\leaveRequest.png"
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
+=======
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
+>>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "PackagePath": "staticwebassets\\dist\\icons\\timeOffice.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\favicon.ico",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\index.html",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo192.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo192.png",
       "PackagePath": "staticwebassets\\logo192.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\logo512.png",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\logo512.png",
       "PackagePath": "staticwebassets\\logo512.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\manifest.json",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\robots.txt",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\robots.txt",
       "PackagePath": "staticwebassets\\robots.txt"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
       "PackagePath": "staticwebassets\\static\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Id": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
       "PackagePath": "staticwebassets\\static\\js\\main.js"
     },
     {
