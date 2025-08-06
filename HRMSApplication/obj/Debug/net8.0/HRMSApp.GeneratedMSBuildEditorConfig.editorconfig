@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xCcmFuY2hNYXN0ZXJcQnJhbmNoTWFzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/DeductionMaster/DeductionMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xEZWR1Y3Rpb25NYXN0ZXJcRGVkdWN0aW9uTWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/EmployeeRegistration/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xFbXBsb3llZVJlZ2lzdHJhdGlvblxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +46,34 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/LocationMaster/LocationMaster.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xMb2NhdGlvbk1hc3RlclxMb2NhdGlvbk1hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/MonthlySalary/monthlyAllowance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xNb250aGx5U2FsYXJ5XG1vbnRobHlBbGxvd2FuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/MonthlySalary/monthlyDeductions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xNb250aGx5U2FsYXJ5XG1vbnRobHlEZWR1Y3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/MonthlySalary/prepareSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xNb250aGx5U2FsYXJ5XHByZXBhcmVTYWxhcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/PFsetting/PFsetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xQRnNldHRpbmdcUEZzZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/TimeOffice/AttendanceProcess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xUaW1lT2ZmaWNlXEF0dGVuZGFuY2VQcm9jZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/TimeOffice/LeaveRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xUaW1lT2ZmaWNlXExlYXZlUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Videos/MaxHr/HRMSApplication/Areas/HRMS/Views/TimeOffice/TimeOfficeSetup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSFJNU1xWaWV3c1xUaW1lT2ZmaWNlXFRpbWVPZmZpY2VTZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/Videos/MaxHr/HRMSApplication/Views/Home/Index.cshtml]

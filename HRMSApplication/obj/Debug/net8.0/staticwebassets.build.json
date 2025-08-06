@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9uDgj41vqNGBXwMfg+bQrQcdT46BT7q1y8ln8xGWyXc=",
+  "Hash": "6F6J7a/P5IxAuxTG1GWJxurD7TIkXRo5PYDquVCtTW8=",
   "Source": "HRMSApp",
   "BasePath": "_content/HRMSApp",
   "Mode": "Default",
@@ -162,6 +162,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\icons\\animatedEmployee.gif"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
+      "SourceId": "HRMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApp",
+      "RelativePath": "dist/icons/Attendance#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sgamqyfho7",
+      "Integrity": "hM/zjYUJX9bC+KnszWo+o22+8BJPNXiyc08Dkz6lySU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\Attendance.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\attendanceProcess.png",
+      "SourceId": "HRMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApp",
+      "RelativePath": "dist/icons/attendanceProcess#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mp0lvfo1wq",
+      "Integrity": "Ji5Hj0lCB0DLQ1FOImsyad8e/sZrnrMNu0oX+OysPUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\attendanceProcess.png"
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
@@ -458,6 +500,27 @@
       "OriginalItemSpec": "wwwroot\\dist\\icons\\information.png"
     },
     {
+      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
+      "SourceId": "HRMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApp",
+      "RelativePath": "dist/icons/leaveRequest#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eomm4ip2r6",
+      "Integrity": "sscBJS06gUu6Ay1moANSNoaMaX46yjmGFDbogrRNK04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\leaveRequest.png"
+    },
+    {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Master.png",
       "SourceId": "HRMSApp",
       "SourceType": "Discovered",
@@ -498,6 +561,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\icons\\OrgStrcture.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
+      "SourceId": "HRMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApp",
+      "RelativePath": "dist/icons/PFEsi#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5dtyljiai8",
+      "Integrity": "1zXzoMBQ5JDxm6KPoivpGUyfukXCiMPdXNuK7xmRcQ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\PFEsi.png"
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
@@ -582,6 +666,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\icons\\timeOffice.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
+      "SourceId": "HRMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\",
+      "BasePath": "_content/HRMSApp",
+      "RelativePath": "dist/icons/TimeOfficeSetup#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b4dapdm8sj",
+      "Integrity": "FTLITv6dqzXRvWUP6XJ29oLK9LsSA9EuBZg1fCAsLsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\icons\\TimeOfficeSetup.png"
     },
     {
       "Identity": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\favicon.ico",
@@ -724,8 +829,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "szsgzyxog3",
-      "Integrity": "OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=",
+      "Fingerprint": "rnf8dfkc8i",
+      "Integrity": "ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\css\\style.css"
@@ -745,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2bzmaosxq9",
-      "Integrity": "PgYqaqlo5xxM07NB5g5k5MY9L0sKbat8X356uLnmWPM=",
+      "Fingerprint": "sunlmwghoc",
+      "Integrity": "BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\main.js"
@@ -776,7 +881,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -821,7 +926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -858,7 +963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -895,7 +1000,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -940,7 +1045,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -985,7 +1090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1022,7 +1127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1059,7 +1164,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1104,7 +1209,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1149,7 +1254,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1160,6 +1265,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-NqN3v+Qi8lb0Xdzp09k3gr8trmAVT+1GecWkfSXeV4k="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Attendance.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hM/zjYUJX9bC+KnszWo+o22+8BJPNXiyc08Dkz6lySU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hM/zjYUJX9bC+KnszWo+o22+8BJPNXiyc08Dkz6lySU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/Attendance.sgamqyfho7.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hM/zjYUJX9bC+KnszWo+o22+8BJPNXiyc08Dkz6lySU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgamqyfho7"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/Attendance.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hM/zjYUJX9bC+KnszWo+o22+8BJPNXiyc08Dkz6lySU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/attendanceProcess.mp0lvfo1wq.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\attendanceProcess.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji5Hj0lCB0DLQ1FOImsyad8e/sZrnrMNu0oX+OysPUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mp0lvfo1wq"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/attendanceProcess.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji5Hj0lCB0DLQ1FOImsyad8e/sZrnrMNu0oX+OysPUY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/attendanceProcess.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\attendanceProcess.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji5Hj0lCB0DLQ1FOImsyad8e/sZrnrMNu0oX+OysPUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji5Hj0lCB0DLQ1FOImsyad8e/sZrnrMNu0oX+OysPUY="
         }
       ]
     },
@@ -1268,7 +1537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1313,7 +1582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1350,7 +1619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,7 +1664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,7 +1701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1477,7 +1746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1514,7 +1783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1559,7 +1828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1596,7 +1865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1641,7 +1910,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1678,7 +1947,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1723,7 +1992,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1760,7 +2029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1805,7 +2074,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +2111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1879,7 +2148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1924,7 +2193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1969,7 +2238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2006,7 +2275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2051,7 +2320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2088,7 +2357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2125,7 +2394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2252,7 +2521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2289,7 +2558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2308,6 +2577,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kYkRTjqib6fdx7B4zHZPgJ2PYObcTX8JaSIJsnTrqGE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/leaveRequest.eomm4ip2r6.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sscBJS06gUu6Ay1moANSNoaMaX46yjmGFDbogrRNK04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eomm4ip2r6"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/leaveRequest.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sscBJS06gUu6Ay1moANSNoaMaX46yjmGFDbogrRNK04="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/leaveRequest.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sscBJS06gUu6Ay1moANSNoaMaX46yjmGFDbogrRNK04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sscBJS06gUu6Ay1moANSNoaMaX46yjmGFDbogrRNK04="
         }
       ]
     },
@@ -2334,7 +2685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2379,7 +2730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2416,7 +2767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2461,7 +2812,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2472,6 +2823,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-bbiw+FzwuE5cDqwYFUB89GGPWXIoLAFGDOg9AkmQNZ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/PFEsi.5dtyljiai8.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1zXzoMBQ5JDxm6KPoivpGUyfukXCiMPdXNuK7xmRcQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5dtyljiai8"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/PFEsi.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1zXzoMBQ5JDxm6KPoivpGUyfukXCiMPdXNuK7xmRcQ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/PFEsi.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1zXzoMBQ5JDxm6KPoivpGUyfukXCiMPdXNuK7xmRcQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1zXzoMBQ5JDxm6KPoivpGUyfukXCiMPdXNuK7xmRcQ8="
         }
       ]
     },
@@ -2498,7 +2931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +2968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2580,7 +3013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2625,7 +3058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2662,7 +3095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2699,7 +3132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2744,7 +3177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2781,7 +3214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 16:00:09 GMT"
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2800,6 +3233,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-AUHAEarbURCefxsbZ14mebfO+B25Twkcc+4x7HvWuso="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/TimeOfficeSetup.b4dapdm8sj.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FTLITv6dqzXRvWUP6XJ29oLK9LsSA9EuBZg1fCAsLsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b4dapdm8sj"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/icons/TimeOfficeSetup.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FTLITv6dqzXRvWUP6XJ29oLK9LsSA9EuBZg1fCAsLsg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/icons/TimeOfficeSetup.png",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FTLITv6dqzXRvWUP6XJ29oLK9LsSA9EuBZg1fCAsLsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FTLITv6dqzXRvWUP6XJ29oLK9LsSA9EuBZg1fCAsLsg="
         }
       ]
     },
@@ -3072,7 +3587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3109,7 +3624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3470,7 +3985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42635"
+          "Value": "43793"
         },
         {
           "Name": "Content-Type",
@@ -3478,11 +3993,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=\""
+          "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3492,12 +4007,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug="
+          "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
         }
       ]
     },
     {
-      "Route": "static/css/style.szsgzyxog3.css",
+      "Route": "static/css/style.rnf8dfkc8i.css",
       "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3507,7 +4022,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42635"
+          "Value": "43793"
         },
         {
           "Name": "Content-Type",
@@ -3515,11 +4030,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=\""
+          "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3529,7 +4044,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "szsgzyxog3"
+          "Value": "rnf8dfkc8i"
         },
         {
           "Name": "label",
@@ -3537,52 +4052,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug="
-        }
-      ]
-    },
-    {
-      "Route": "static/js/main.2bzmaosxq9.js",
-      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\js\\main.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1449915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PgYqaqlo5xxM07NB5g5k5MY9L0sKbat8X356uLnmWPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2bzmaosxq9"
-        },
-        {
-          "Name": "label",
-          "Value": "static/js/main.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PgYqaqlo5xxM07NB5g5k5MY9L0sKbat8X356uLnmWPM="
+          "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
         }
       ]
     },
@@ -3597,7 +4067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1449915"
+          "Value": "1511739"
         },
         {
           "Name": "Content-Type",
@@ -3605,11 +4075,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PgYqaqlo5xxM07NB5g5k5MY9L0sKbat8X356uLnmWPM=\""
+          "Value": "\"BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Jul 2025 18:09:20 GMT"
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3619,7 +4089,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PgYqaqlo5xxM07NB5g5k5MY9L0sKbat8X356uLnmWPM="
+          "Value": "sha256-BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.sunlmwghoc.js",
+      "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1511739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sunlmwghoc"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw="
         }
       ]
     }

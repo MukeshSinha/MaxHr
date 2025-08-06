@@ -42,6 +42,14 @@ function NavBarComponent({ selectedModule, setSelectedModule }) {
         'Shift': <img src="dist/icons/Shift.png" alt="Shift" className="ml-2 h-6 w-6" />,
         'Employee Allowance': <img src="dist/icons/EmployeeAllowance.png" alt="EmployeeAllowance" className="ml-2 h-6 w-6" />,
         'Employee Deduction': <img src="dist/icons/EmployeeSaalaryDeduction.png" alt="EmployeeSaalaryDeductiond" className="ml-2 h-6 w-6" />,
+        'PF & Esi Setting': <img src="dist/icons/PFEsi.png" alt="PFESISetting" className="ml-2 h-6 w-6" />,
+        'Attendance Setup': <img src="dist/icons/Attendance.png" alt="Attendance" className="ml-2 h-6 w-6" />,
+        'Time Office': <img src="dist/icons/TimeOfficeSetup.png" alt="TimeOfficeSetup" className="ml-2 h-6 w-6" />,
+        'Attendance Process': <img src="dist/icons/attendanceProcess.png" alt="attendanceProcess" className="ml-2 h-6 w-6" />,
+        'Leave Request': <img src="dist/icons/leaveRequest.png" alt="leaveRequest" className="ml-2 h-6 w-6" />,
+        'Emp Monthly Allowance': <img src="dist/icons/EmployeeAllowance.png" alt="EmployeeAllowance" className="ml-2 h-6 w-6" />,
+        'Emp Monthly Deduction': <img src="dist/icons/EmployeeSaalaryDeduction.png" alt="EmployeeSaalaryDeduction" className="ml-2 h-6 w-6" />,
+        'Prepare Salary': <img src="dist/icons/Salary.png" alt="PrepareSalary" className="ml-2 h-6 w-6" />,
     };
 
     useEffect(() => {

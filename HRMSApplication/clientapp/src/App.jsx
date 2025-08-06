@@ -25,6 +25,12 @@ import BranchMaster from './components/BranchMaster';
 import LocationMaster from './components/LocationMaster';
 import ImportEmployee from './components/ImportEmployee';
 import ImportSalaryMaster from './components/ImportSalaryMaster';
+import LeaveRequest from './components/LeaveRequest';
+import AttendanceProcess from './components/AttendanceProcess';
+import PFAndESIMaster from './components/PFAndESIMaster';
+
+import PrepareSalary from './components/PrepareSalary';
+import GetPendingLeaves from './components/GetPendingLeaves';
 
 const FormProvider = ({ children }) => {
     const [formData, setFormData] = useState({
@@ -111,9 +117,13 @@ function Layout({ selectedModule, setSelectedModule }) {
                 <Route path="/HRMS/HolidayMaster/HolidayMaster" element={<HolidayMaster />} />
                 <Route path="/HRMS/CompanyLeaves/CompanyLeaves" element={<CompanyLeaves />} />
                 <Route path="/HRMS/ShiftMaster/ShiftMaster" element={<ShiftMaster />} />
-                <Route path="/HRMS/EmpMonthlyAllowance/EmpMonthlyAllowance" element={<EmployeeAllowance />} />
-                {/*<Route path="/HRMS/EmpMonthlyDeduction/EmpMonthlyDeduction" element={<EmployeeDeduction />} />*/}
-                <Route path="/HRMS/EmpMonthlyDeduction/EmpMonthlyDeduction" element={<EmployeeDeduction />} />
+                <Route path="/HRMS/MonthlySalary/monthlyAllowance" element={<EmployeeAllowance />} />
+                <Route path="/HRMS/MonthlySalary/monthlyDeductions" element={<EmployeeDeduction />} />
+                <Route path="/HRMS/MonthlySalary/prepareSalary" element={<PrepareSalary />} />
+                <Route path="/HRMS/TimeOffice/TimeOfficeSetup" element={<EmployeeShiftConfig />} />
+                <Route path="/HRMS/TimeOffice/AttendanceProcess" element={<AttendanceProcess />} />
+                <Route path="/HRMS/TimeOffice/LeaveRequest" element={<LeaveRequest />} />
+                <Route path="/HRMS/PFsetting/PFsetting" element={<GetPendingLeaves />} />
             </Routes>
         </div>
     );

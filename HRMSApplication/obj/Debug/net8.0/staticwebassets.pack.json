@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\dist\\icons\\Allowances.png"
     },
     {
+      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Attendance.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\Attendance.png"
+    },
+    {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Backgound.gif",
       "PackagePath": "staticwebassets\\dist\\icons\\Backgound.gif"
     },
@@ -77,6 +81,10 @@
       "PackagePath": "staticwebassets\\dist\\icons\\OrgStrcture.png"
     },
     {
+      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\PFEsi.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\PFEsi.png"
+    },
+    {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\Salary.png",
       "PackagePath": "staticwebassets\\dist\\icons\\Salary.png"
     },
@@ -89,8 +97,16 @@
       "PackagePath": "staticwebassets\\dist\\icons\\Shift.png"
     },
     {
+      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\TimeOfficeSetup.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\TimeOfficeSetup.png"
+    },
+    {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\animatedEmployee.gif",
       "PackagePath": "staticwebassets\\dist\\icons\\animatedEmployee.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\attendanceProcess.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\attendanceProcess.png"
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\department.png",
@@ -99,6 +115,10 @@
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\information.png",
       "PackagePath": "staticwebassets\\dist\\icons\\information.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\leaveRequest.png",
+      "PackagePath": "staticwebassets\\dist\\icons\\leaveRequest.png"
     },
     {
       "Id": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\dist\\icons\\timeOffice.png",
