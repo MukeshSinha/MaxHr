@@ -31,7 +31,7 @@ const DashboardComponent = () => {
         <div className="relative w-full h-screen bg-cover bg-center flex items-center justify-center" style={{ backgroundImage: "url('dist/icons/HRMSBackground.jpg')" }}>
             <div className="absolute inset-0 bg-black bg-opacity-60" />
             <div className="relative z-10 text-center px-4">
-                <h1 className="text-white text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">Welcome to RSSR HRMS Software</h1>
+                <h1 className="text-white text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">Welcome to Compliance House</h1>
                 
                 <div className="flex flex-col md:flex-row gap-4 justify-center">
                     <button

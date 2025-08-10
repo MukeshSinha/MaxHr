@@ -588,8 +588,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rao82nr6g4</Fingerprint>
-      <Integrity>/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=</Integrity>
+      <Fingerprint>0skfelmhkz</Fingerprint>
+      <Integrity>EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -679,12 +679,17 @@
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
 <<<<<<< HEAD
+      <Fingerprint>szsgzyxog3</Fingerprint>
+      <Integrity>OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=</Integrity>
+=======
+<<<<<<< HEAD
       <Fingerprint>rnf8dfkc8i</Fingerprint>
       <Integrity>ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=</Integrity>
 =======
       <Fingerprint>qor4cwuc6m</Fingerprint>
       <Integrity>KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE=</Integrity>
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\static\css\style.css'))</OriginalItemSpec>
@@ -702,12 +707,17 @@
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
 <<<<<<< HEAD
+      <Fingerprint>eh7rj5nb4o</Fingerprint>
+      <Integrity>orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c=</Integrity>
+=======
+<<<<<<< HEAD
       <Fingerprint>sunlmwghoc</Fingerprint>
       <Integrity>BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=</Integrity>
 =======
       <Fingerprint>hbovtn0q2b</Fingerprint>
       <Integrity>3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=</Integrity>
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\static\js\main.js'))</OriginalItemSpec>

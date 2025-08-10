@@ -6,7 +6,7 @@ import App from './App.jsx';
 import './index.css';
 import './App.css';
 
-// ✅ Read dynamic base path
+//  Read dynamic base path
 const basePath = document.querySelector('base')?.getAttribute('href') ?? '/';
 
 const root = createRoot(document.getElementById('root'));

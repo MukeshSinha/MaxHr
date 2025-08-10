@@ -1,10 +1,14 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "Hash": "ZURELLN7h6Wqj9dC/e4CqFifNfdnW8/H91Q7wxlYNf8=",
+=======
+<<<<<<< HEAD
   "Hash": "6F6J7a/P5IxAuxTG1GWJxurD7TIkXRo5PYDquVCtTW8=",
 =======
   "Hash": "X2wZkfZyYsxHkMLVSAzR5U7W+ByE62tXTDd+NZLovVY=",
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
   "Source": "HRMSApp",
   "BasePath": "_content/HRMSApp",
   "Mode": "Default",
@@ -744,8 +748,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rao82nr6g4",
-      "Integrity": "/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=",
+      "Fingerprint": "0skfelmhkz",
+      "Integrity": "EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -850,12 +854,17 @@
       "AssetTraitName": "",
       "AssetTraitValue": "",
 <<<<<<< HEAD
+      "Fingerprint": "szsgzyxog3",
+      "Integrity": "OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=",
+=======
+<<<<<<< HEAD
       "Fingerprint": "rnf8dfkc8i",
       "Integrity": "ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=",
 =======
       "Fingerprint": "qor4cwuc6m",
       "Integrity": "KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE=",
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\css\\style.css"
@@ -876,12 +885,17 @@
       "AssetTraitName": "",
       "AssetTraitValue": "",
 <<<<<<< HEAD
+      "Fingerprint": "eh7rj5nb4o",
+      "Integrity": "orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c=",
+=======
+<<<<<<< HEAD
       "Fingerprint": "sunlmwghoc",
       "Integrity": "BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=",
 =======
       "Fingerprint": "hbovtn0q2b",
       "Integrity": "3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=",
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\main.js"
@@ -912,10 +926,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -961,10 +979,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -1002,10 +1024,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -1043,10 +1069,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -1092,10 +1122,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -1141,10 +1175,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2418,10 +2456,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2467,10 +2509,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2508,10 +2554,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2549,10 +2599,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2597,7 +2651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2634,7 +2688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2680,10 +2734,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2721,10 +2779,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2852,10 +2914,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2901,10 +2967,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2942,10 +3012,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -2991,10 +3065,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3114,10 +3192,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3155,10 +3237,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3204,10 +3290,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3253,10 +3343,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3294,10 +3388,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3335,10 +3433,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3384,10 +3486,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3425,10 +3531,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 14:52:44 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3779,6 +3889,51 @@
       ]
     },
     {
+      "Route": "index.0skfelmhkz.html",
+      "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0skfelmhkz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\index.html",
       "Selectors": [],
@@ -3789,7 +3944,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "384"
+          "Value": "400"
         },
         {
           "Name": "Content-Type",
@@ -3797,15 +3952,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA=\""
+          "Value": "\"EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ=\""
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
 <<<<<<< HEAD
           "Value": "Wed, 06 Aug 2025 15:32:45 GMT"
 =======
           "Value": "Sun, 27 Jul 2025 07:28:43 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -3815,6 +3974,9 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-EAex+cNVhT7rJ1R8DBwH2xr8ZhJ9kUftxpt1MnUq9MQ="
+=======
           "Value": "sha256-/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA="
         }
       ]
@@ -3865,6 +4027,7 @@
         {
           "Name": "integrity",
           "Value": "sha256-/aQV82fE4zXHlsNWV2gYFOZ5ksqYZto7HVLuLsUyVwA="
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         }
       ]
     },
@@ -4208,10 +4371,14 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+          "Value": "42635"
+=======
+<<<<<<< HEAD
           "Value": "43793"
 =======
           "Value": "42636"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Content-Type",
@@ -4219,6 +4386,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
 <<<<<<< HEAD
           "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
@@ -4232,6 +4406,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 31 Jul 2025 14:54:56 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -4242,19 +4417,27 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+          "Value": "sha256-OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug="
+=======
+<<<<<<< HEAD
           "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
 =======
           "Value": "sha256-KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE="
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         }
       ]
     },
     {
 <<<<<<< HEAD
+      "Route": "static/css/style.szsgzyxog3.css",
+=======
+<<<<<<< HEAD
       "Route": "static/css/style.rnf8dfkc8i.css",
       "AssetFile": "C:\\Users\\hp\\Videos\\MaxHr\\HRMSApplication\\wwwroot\\static\\css\\style.css",
 =======
       "Route": "static/css/style.qor4cwuc6m.css",
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
       "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\css\\style.css",
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
       "Selectors": [],
@@ -4266,10 +4449,14 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+          "Value": "42635"
+=======
+<<<<<<< HEAD
           "Value": "43793"
 =======
           "Value": "42636"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Content-Type",
@@ -4277,6 +4464,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
 <<<<<<< HEAD
           "Value": "\"ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8=\""
         },
@@ -4290,6 +4484,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 31 Jul 2025 14:54:56 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -4300,10 +4495,14 @@
         {
           "Name": "fingerprint",
 <<<<<<< HEAD
+          "Value": "szsgzyxog3"
+=======
+<<<<<<< HEAD
           "Value": "rnf8dfkc8i"
 =======
           "Value": "qor4cwuc6m"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "label",
@@ -4312,14 +4511,18 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+          "Value": "sha256-OC4GvT2VnRPiJW7O8p/cTjMLqAlaGHzuhAMbesYuzug="
+=======
+<<<<<<< HEAD
           "Value": "sha256-ufVUBVVtUl2aBJnXFH2rXnM1mAFeSTJwaVsJvJH6Pl8="
 =======
           "Value": "sha256-KlHYWgheGOwb8ee0/9BHYKx7qnqSNvfHHIni9czyoVE="
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         }
       ]
     },
     {
-      "Route": "static/js/main.hbovtn0q2b.js",
+      "Route": "static/js/main.eh7rj5nb4o.js",
       "AssetFile": "F:\\CustomSoftware\\HRMSApplication\\HRMSApplication\\HRMSApplication\\wwwroot\\static\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4329,7 +4532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1455046"
+          "Value": "1455044"
         },
         {
           "Name": "Content-Type",
@@ -4337,11 +4540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg=\""
+          "Value": "\"orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4351,7 +4554,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hbovtn0q2b"
+          "Value": "eh7rj5nb4o"
         },
         {
           "Name": "label",
@@ -4359,8 +4562,12 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c="
+=======
           "Value": "sha256-3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg="
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         }
       ]
     },
@@ -4376,10 +4583,14 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+          "Value": "1455044"
+=======
+<<<<<<< HEAD
           "Value": "1511739"
 =======
           "Value": "1455046"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Content-Type",
@@ -4387,6 +4598,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 05:49:16 GMT"
+=======
 <<<<<<< HEAD
           "Value": "\"BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw=\""
         },
@@ -4400,6 +4618,7 @@
           "Name": "Last-Modified",
           "Value": "Sun, 27 Jul 2025 07:28:44 GMT"
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         },
         {
           "Name": "Cache-Control",
@@ -4409,6 +4628,9 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-orXqwAe6JVxjZAJPz3EhWtgCCiKQ1eie8vD7VMjMt1c="
+=======
 <<<<<<< HEAD
           "Value": "sha256-BALjyidtb0MdKWSnx00rHh0KkgG1kLrehiiw4+8xFxw="
         }
@@ -4459,6 +4681,7 @@
 =======
           "Value": "sha256-3QXT29YENioBpVJq3mGBEBOcugFbFoVIGtqRb+WIiXg="
 >>>>>>> fa2e0b1563357b815135bb75ff44820c358e620b
+>>>>>>> cd39fe7146b8317c29783c78ee609d8b4de8ff68
         }
       ]
     }
